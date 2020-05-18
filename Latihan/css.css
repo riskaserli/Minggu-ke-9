@@ -1,0 +1,54 @@
+body{
+	font-family: sans-serif;
+	background: #ffffff;
+}
+
+
+.login{
+	text-align: center;
+	text-transform: uppercase;
+	background: #dd4814;
+	color: white;
+	font-size: 20pt;
+	border: none;
+	border-radius: 3px;
+	padding: 15px 20px;
+}
+
+.box_login{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol_login{
+	background: #dd4814;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+
+.alert{
+	background: #e44e4e;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	border:1px solid #b32929;
+}
